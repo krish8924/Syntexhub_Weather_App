@@ -22,10 +22,10 @@ A simple and responsive Weather Application that provides real-time weather upda
 ## 🖼️ Application Screenshots
 
 ### 🔍 Search City Screen
-![Search Screen](screenshots/home.png)
+![Search Screen](screenshots/search.png)
 
 ### 🌥️ Weather Result – Pune
-![Pune Weather](screenshots/pune-weather.png)
+![Pune Weather](screenshots/pune.png)
 
 ### 🌧️ Weather Result – Surat
 ![Surat Weather](screenshots/surat.png)
