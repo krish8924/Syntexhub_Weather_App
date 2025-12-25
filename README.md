@@ -22,7 +22,7 @@ A simple and responsive Weather Application that provides real-time weather upda
 ## 🖼️ Application Screenshots
 
 ### 🔍 Search City Screen
-![Search Screen](screenshots/search.png)
+![Search Screen](screenshots /search.png)
 
 ### 🌥️ Weather Result – Pune
 ![Pune Weather](screenshots/pune.png)
