@@ -28,7 +28,7 @@ A simple and responsive Weather Application that provides real-time weather upda
 ![Pune Weather](screenshots/pune-weather.png)
 
 ### 🌧️ Weather Result – Surat
-![Surat Weather](screenshots/surat-weather.png)
+![Surat Weather](screenshots/Screenshot 2025-12-25 231439.png)
 
 
 
